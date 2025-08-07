@@ -1,0 +1,23 @@
+# Student Portal Demo
+
+A web application to demonstrate core student portal functionality.
+
+## Features
+- *User Authentication*: Secure login for students and faculty
+- *Grade Tracking*: View current grades and academic progress
+- *Course Management*: Browse and register for courses
+- *Announcements*: Important notifications from faculty
+- *Resource Hub*: Centralized access to learning materials
+- *Schedule Planner*: Visual timetable of classes and events
+
+## Technologies
+- Frontend: React.js with Tailwind CSS
+- Backend: Node.js/Express
+- Database: PostgreSQL
+- Authentication: JWT Tokens
+
+## Getting Started
+1. Clone this repository
+2. Install dependencies: npm install
+3. Configure environment variables
+4. Run development server: npm start
